@@ -1,0 +1,3 @@
+I:\WindowsApp\WindowsApp\bin\x64\Debug\WindowsApp.exe.config
+I:\WindowsApp\WindowsApp\obj\x64\Debug\Interop.VBIDE.dll
+I:\WindowsApp\WindowsApp\obj\x64\Debug\WindowsApp.vbproj.ResolveComReference.cache

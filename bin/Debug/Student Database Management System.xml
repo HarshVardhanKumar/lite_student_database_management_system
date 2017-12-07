@@ -1,0 +1,360 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Student Database Management System
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApp.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.add_user__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.blue_abstract_background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.Bunifu_UI_v1_5_3">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.Close_128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.dark_brushed_metal_texture_steel_black_stock_photo_scratch_wallpaper1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.Fun_colors_blur_backgrounds_3D_1920x1200">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.Home_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.Logout_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.Minus_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.newspaper__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.Report_Editor_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.road_street_blur_blurred">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.Row_128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.Screen_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.send__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.university_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.user__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.user__people__profile__human__account__avatar_png_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.User_Add_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.User_Find_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.User_Message_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp.My.Resources.Resources.User_Modify_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1.ADDRESS_PERMANENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1.COURSE_DETAILDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1.STUDENT_BASIC_DETAILSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1.Student_Subject_MarksDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1.ADDRESS_PERMANENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1.COURSE_DETAILRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1.STUDENT_BASIC_DETAILSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1.Student_Subject_MarksRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1.ADDRESS_PERMANENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1.COURSE_DETAILRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1.STUDENT_BASIC_DETAILSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1.Student_Subject_MarksRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1TableAdapters.ADDRESS_PERMANENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1TableAdapters.COURSE_DETAILTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1TableAdapters.STUDENT_BASIC_DETAILSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1TableAdapters.Student_Subject_MarksTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsApp.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApp.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApp.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApp.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApp.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApp.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsApp.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsApp.DataSet1TableAdapters.TableAdapterManager.UpdateAll(WindowsApp.DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsApp.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="M:WindowsApp.addstudentprofile.MenuButton_Click(System.Object,System.EventArgs)">
+ <summary>
+ ''''''called when the slider menu is pressed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApp.addstudentprofile.savebuttoncreateprofile_Click(System.Object,System.EventArgs)">
+ <summary>
+ this function is called when the "save" button is pressed.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApp.addstudentprofile.createStudentProfile">
+ <summary>
+ ''''''''''''''''''''' this function is used to create student profiles. It is called  when the "save" and "save and new" buttons are pressed 
+ </summary>
+</member>
+<member name="M:WindowsApp.addstudentprofile.reset">
+ <summary>
+  this function is used to clear all the data entered in create profile page
+ </summary>
+</member>
+<member name="M:WindowsApp.addstudentprofile.saveandnewbuttoncreateprofile_Click(System.Object,System.EventArgs)">
+ <summary>
+ '''''this function is called when "save and new" is pressed. It created the profile and clears the form for new profile to be created
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApp.addstudentprofile.resetbuttoncreateprofile_Click(System.Object,System.EventArgs)">
+ <summary>
+ ''''''' this function is used to reset the create profile page
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApp.addstudentprofile.closebuttoncreateprofile_Click(System.Object,System.EventArgs)">
+ <summary>
+ '''''called when close button is pressed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApp.addstudentprofile.minimize_Click(System.Object,System.EventArgs)">
+ <summary>
+ '''''''' called during windows minimization
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApp.addstudentprofile.maximize_Click(System.Object,System.EventArgs)">
+ <summary>
+ '''' called during windows maximization
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApp.addstudentprofile.exitbutton_Click(System.Object,System.EventArgs)">
+ <summary>
+ ''''''called during windows exit
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApp.addstudentprofile.Button1_Click(System.Object,System.EventArgs)">
+ <summary>
+ '''' called to select the profile picture for the student profile
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApp.addstudentprofile.Button2_Click(System.Object,System.EventArgs)">
+ <summary>
+ '''''''called when "same as correspondence address" button is pressed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApp.homepage.MenuButton_Click(System.Object,System.EventArgs)">
+ <summary>
+ ''''' called when the slider menu is pressed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApp.homepage.createprofilebutton_Click(System.Object,System.EventArgs)">
+ <summary>
+ ''called when the create profile button is pressed in slide menu
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>
